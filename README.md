@@ -10,12 +10,13 @@ This dashboard using different types of charts including
     Scatter plot,
     Bar Chart,
     Geospatial Maps.
+    
 Stakeholder:
-
 Marketing and Business Teams
 
 Tools/Skills Used:
-
-DAX
+--Tableau Desktop
+-Hirearchy
+-Calculated Columns
 
 Tableau Dashboard: [https://public.tableau.com/shared/D8DGWJHPS?:display_count=n&:origin=viz_share_link]
