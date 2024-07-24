@@ -19,4 +19,12 @@ Tools/Skills Used:
 -Hirearchy
 -Calculated Columns
 
+Insights:
+    Revenue by State
+    Revenue by month
+    Payment by types
+    Revenue per category per gender 
+    Percentage of revenue by region
+    Revenue by age 
+
 Tableau Dashboard: [https://public.tableau.com/shared/D8DGWJHPS?:display_count=n&:origin=viz_share_link]
