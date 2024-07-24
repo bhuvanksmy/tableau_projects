@@ -15,10 +15,10 @@ Stakeholder:
 Marketing and Business Teams
 
 Tools/Skills Used:
---Tableau Desktop
--Hirearchy
--Calculated Columns
--EDA Analysis
+- Tableau Desktop
+- Hirearchy
+- Calculated Columns
+- EDA Analysis
 
 Insights:
     Revenue by State
