@@ -1,6 +1,6 @@
 # Customer Analysis Project
 # Introduction
-    This project focuses on analyzing customer data from a product-based dataset to derive meaningful insights. The dataset used for this analysis and visualization is [./Customer_analysis/sales_dataset_FY2020-21.csv]. This dataset contains various pieces of information relevant to customer purchases and product sales.
+This project focuses on analyzing customer data from a product-based dataset to derive meaningful insights. The dataset used for this analysis and visualization is [./Customer_analysis/sales_dataset_FY2020-21.csv]. This dataset contains various pieces of information relevant to customer purchases and product sales.
 
 # Types of Charts
 The dashboard leverages a variety of charts to present data in an intuitive and informative manner:
@@ -34,6 +34,6 @@ The analysis provides several key insights:
 - Revenue by Age: Examines how revenue varies across different age groups.
 
 # Conclusion
-    This project demonstrates my ability to analyze and visualize data effectively using Tableau. By employing various types of charts and conducting thorough EDA, I have provided actionable insights for marketing and business teams. These insights can help in understanding customer behavior, optimizing sales strategies, and improving overall business performance
+This project demonstrates my ability to analyze and visualize data effectively using Tableau. By employing various types of charts and conducting thorough EDA, I have provided actionable insights for marketing and business teams. These insights can help in understanding customer behavior, optimizing sales strategies, and improving overall business performance
 
 Tableau Dashboard: [https://public.tableau.com/shared/D8DGWJHPS?:display_count=n&:origin=viz_share_link]
