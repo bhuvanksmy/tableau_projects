@@ -5,13 +5,14 @@ Data set used for this analysis & Visualization    [./Customer_analysis/sales_da
 
 # Types of charts:
 This dashboard using different types of charts including 
-    Butterfly chart, 
-    Donut chart, 
-    Scatter plot,
-    Bar Chart,
-    Geospatial Maps.
+- Butterfly chart, 
+- Donut chart, 
+- Scatter plot,
+- Bar Chart,
+- Geospatial Maps.
     
 Stakeholder:
+
 Marketing and Business Teams
 
 Tools/Skills Used:
